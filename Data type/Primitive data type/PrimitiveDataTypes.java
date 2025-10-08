@@ -12,7 +12,7 @@ public class PrimitiveDataTypes {
 		
 		long l = 12345678L;
 		
-		float f = 1.05f;
+		float f = 1.00f;
 	
 		double d = 10.55;
 		
